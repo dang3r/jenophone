@@ -22,8 +22,6 @@ For my use-case, one party has limited data and does not have unlimited text to 
 
 ```
 Usage of ./jenophone:
-  -accountsid string
-    Twilio Account Sid
   -num1 string
     First phone number
   -num2 string
